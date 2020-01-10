@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  trendyol:
+    build: .
+    ports:
+      - 8888:8888
+    volumes:
+      - ./trendyol:/home/jovyan/trendyol:rw

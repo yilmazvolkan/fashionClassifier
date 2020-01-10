@@ -1,6 +1,3 @@
-# fashionClassifier
-
-
 # Fashion Classifier
 
 ## Introduction

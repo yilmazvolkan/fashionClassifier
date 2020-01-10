@@ -4,6 +4,15 @@
 
 Classification model on Fashion-MNIST dataset.
 
+## How to run
+
+```
+docker-compose up --build -d
+```
+
+Then: open [http://localhost:8888/tree](http://localhost:8888/tree) in your browser
+
+
 ## Results
 
 If we apply the first model, we can get the following results:
